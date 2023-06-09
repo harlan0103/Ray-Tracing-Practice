@@ -36,6 +36,12 @@
     <ClInclude Include="rtweekend.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="material.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Ray-Tracing.cpp">
